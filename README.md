@@ -1,0 +1,2 @@
+# goregotchi
+Supinfo Project
